@@ -1,2 +1,2 @@
 # curso---html-basic-project
-Introdução baica HTML e CSS projetos
+Introdução basica HTML e CSS projetos
